@@ -1,0 +1,6 @@
+{
+  "name": "WSK EARN",
+  "description": "A high-fidelity modern earning and rewards Android application with gamified features, integrated with a secure local database, tasks, referrals, live withdrawal channels, administrative controllers, and beautiful interactive visuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
